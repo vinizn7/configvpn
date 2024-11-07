@@ -182,7 +182,7 @@
             "dns2": "94.140.15.15"
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": 21,
+        "id": 20,
         "mode": "SSH_PROXY",
         "name": "VIVO PRÉ-PAGO PREMIUM ON",
         "proxy": {
@@ -233,7 +233,7 @@
             "dns2": "94.140.15.15"
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": 20,
+        "id": 21,
         "mode": "SSH_PROXY",
         "name": "VIVO EASY 01 ON",
         "proxy": {
@@ -284,7 +284,7 @@
             "dns2": "94.140.15.15"
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": 23,
+        "id": 22,
         "mode": "SSH_PROXY",
         "name": "VIVO TESTE",
         "proxy": {
