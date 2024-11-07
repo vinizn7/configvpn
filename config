@@ -293,7 +293,7 @@
         },
         "server": {
             "host": "br.multservidor5g.shop",
-            "port": 443
+            "port": 80
         },
         "sorter": 1,
         "status": "ACTIVE",
