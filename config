@@ -407,57 +407,6 @@
         "url_check_user": "https://multservidor5g.dr1.info/checkuser/dtunnel.php?user=",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
-{
-        "auth": {
-            "password": null,
-            "username": null,
-            "v2ray_uuid": null
-        },
-        "category": {
-            "color": "#800022FF",
-            "created_at": "2023-07-30 17:49:04",
-            "id": 3,
-            "name": "OPERADORA TIM",
-            "sorter": 3,
-            "status": "ACTIVE",
-            "updated_at": "2023-07-30 17:49:18",
-            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-        },
-        "category_id": 3,
-        "config_openvpn": null,
-        "config_payload": {
-            "payload": "PATCH http://d1gwwikruxnmk3.cloudfront.net HTTP/1.1[lf]Host: [rotate= accounts.descomplica.com.br;simulado.descomplica.com.br][lf]Connection: Upgrade[lf]Upgrade: Websocket[crlf]Expect: 100-continue[crlf]/[crlf]DELETE / HTTP/1.1[crlf]Host: [rotate=d1gwwikruxnmk3.cloudfront.net;dex.descomplica.com.br;io.descomplica.com.br][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Expect: 100-continue[crlf][split][crlf]",
-            "sni": null
-        },
-        "config_v2ray": null,
-        "created_at": "2023-07-30 17:51:58",
-        "description": "",
-        "dns_server": {
-            "dns1": "94.140.14.14",
-            "dns2": "94.140.15.15"
-        },
-        "icon": "https://i.ibb.co/zR5Cv2R/DTel1q-06m.png",
-        "id": 32,
-        "mode": "SSH_PROXY",
-        "name": "TIM PRÉ-PAGO/VIVO TESTE",
-        "proxy": {
-            "host": "sync-interno.m4u.com.br#sky-icare-cartao.m4u.com.br#recargadinheiro.m4u.com.br#trocadecartao.timcontrole.m4u.com.br#checkout.descomplica.com.br#launches.appsflyer.com",
-            "port": 80
-        },
-        "server": {
-            "host": "sync-interno.m4u.com.br#sky-icare-cartao.m4u.com.br#recargadinheiro.m4u.com.br#trocadecartao.timcontrole.m4u.com.br#checkout.descomplica.com.br#launches.appsflyer.com",
-            "port": 80
-        },
-        "sorter": 1,
-        "status": "ACTIVE",
-        "tls_version": "TLSv1.3",
-        "udp_ports": [
-            7400
-        ],
-        "updated_at": "2023-08-28 16:21:14",
-        "url_check_user": "https://multservidor5g.dr1.info/checkuser/dtunnel.php?user=",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-        },		
 		{
         "auth": {
             "password": null,
