@@ -285,7 +285,7 @@
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
         "id": 22,
-        "mode": "SSL_DIRECT",
+        "mode": "SSL_PROXY",
         "name": "VIVO TESTE",
         "proxy": {
             "host": "recarga.vivo.com.br#lojaonline.vivo.com.br#gedoc.vivo.com.br#lojaempresas.vivo.com.br",
