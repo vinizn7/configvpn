@@ -274,7 +274,7 @@
         "config_openvpn": null,
         "config_payload": {
             "payload": "PATCH /multservidor5g HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]#GET /multservidor5g HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
-            "sni": "br.multservidor5g.shop"
+            "sni": "firewallfalcon.canaldotl.573357.xyz"
         },
         "config_v2ray": null,
         "created_at": "2023-07-24 18:20:54",
@@ -293,7 +293,7 @@
         },
         "server": {
             "host": "recarga.vivo.com.br#lojaonline.vivo.com.br#gedoc.vivo.com.br#lojaempresas.vivo.com.br",
-            "port": 80
+            "port": 443
         },
         "sorter": 1,
         "status": "ACTIVE",
