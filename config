@@ -273,7 +273,7 @@
         "category_id": 2,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PATCH /multservidor5g HTTP/1.1[crlf]Host: br.multservidor5g.shop[crlf]Upgrade: Websocket[crlf][crlf]#GET /multservidor5g HTTP/1.1[crlf]Host: br.multservidor5g.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "payload": "BASELINE-CONTROL / HTTP/1.1[crlf]Host: br.multservidor5g.shop[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "sni": "firewallfalcon.canaldotl.573357.xyz"
         },
         "config_v2ray": null,
