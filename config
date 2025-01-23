@@ -31,7 +31,7 @@
         "icon": "https://i.ibb.co/mCfrFfD/DT44ag1icq.png",
         "id": 1,
         "mode": "SSL_DIRECT",
-        "name": "FLUKE PLANOS 01o",
+        "name": "FLUKE PLANOS 01",
         "proxy": {
             "host": "",
             "port": 80
