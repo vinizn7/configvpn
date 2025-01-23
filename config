@@ -182,7 +182,7 @@
             "dns2": "94.140.15.15"
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": 20,
+        "id": 21,
         "mode": "SSH_PROXY",
         "name": "VIVO PRÉ-PAGO PREMIUM ON",
         "proxy": {
@@ -233,62 +233,11 @@
             "dns2": "94.140.15.15"
         },
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": 21,
+        "id": 20,
         "mode": "SSH_PROXY",
         "name": "VIVO EASY 01 ON",
         "proxy": {
             "host": "104.17.70.206#104.26.5.32#a.vipxkz.shop#104.18.37.248#b.vipxkz.shop#c.vipxkz.shop#d.vipxkz.shop#e.vipxkz.shop#f.vipxkz.shop#g.vipxkz.shop#104.17.70.206#172.64.150.8#104.18.37.248#15.229.107.142#162.159.135.63#162.159.136.63#172.67.73.56#104.26.2.170#104.26.3.170#208.70.188.213#172.64.149.213#104.18.38.43#104.18.38.83#172.64.149.173#67.199.248.13#67.199.248.12#104.26.14.2#104.26.15.2#172.67.75.226#177.79.247.24#104.18.192.17#104.18.193.17#104.19.252.8#104.19.253.8#104.18.23.19#104.18.22.19#172.65.226.233#172.64.149.252#104.18.38.4#104.17.24.14#104.17.25.14#172.67.165.250#104.21.16.24#104.18.17.182#104.18.16.182#104.18.10.207#104.18.11.207#104.19.252.8#104.19.253.83#104.17.209.68#104.17.208.683#172.64.144.240#104.18.43.16#104.16.124.96#104.16.123.96#172.67.11.112#104.22.14.216#104.22.15.216#104.18.22.19#104.18.23.19#104.16.124.96#104.16.123.96#54.233.243.15#104.26.3.170#104.26.2.170#172.67.73.563172.64.149.213#104.18.38.43#172.64.149.173#104.18.38.83367.199.248.133267.199.248.12#172.67.75.226#104.26.14.2#104.26.15.23104.17.24104.21.16.24#172.67.165.250#104.17.25.14",
-            "port": 80
-        },
-        "server": {
-            "host": "br.multservidor5g.shop",
-            "port": 80
-        },
-        "sorter": 1,
-        "status": "ACTIVE",
-        "tls_version": "TLSv1.3",
-        "udp_ports": [
-            7400
-        ],
-        "updated_at": "2023-08-28 16:06:06",
-        "url_check_user": "https://multservidor5g.dr1.info/checkuser/dtunnel.php?user=",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-        },
-		        {
-        "auth": {
-            "password": null,
-            "username": null,
-            "v2ray_uuid": null
-        },
-        "category": {
-            "color": "#80BB1CD4",
-            "created_at": "2023-07-24 16:38:13",
-            "id": 2,
-            "name": "OPERADORA VIVO",
-            "sorter": 2,
-            "status": "ACTIVE",
-            "updated_at": "2023-07-24 16:38:13",
-            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-        },
-        "category_id": 2,
-        "config_openvpn": null,
-        "config_payload": {
-            "payload": "GET /v8/ HTTP/1.1\r\nHost: t1-bdtwpa7mma-uc.a.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
-            "sni": "m.youtube.com.br#lh3.google.com.br"
-        },
-        "config_v2ray": null,
-        "created_at": "2023-07-24 18:20:54",
-        "description": "Vivo Pre-pago",
-        "dns_server": {
-            "dns1": "94.140.14.14",
-            "dns2": "94.140.15.15"
-        },
-        "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
-        "id": 22,
-        "mode": "SSH_PROXY",
-        "name": "VIVO TESTE NOVO",
-        "proxy": {
-            "host": "m.youtube.com.br#lh3.google.com.br",
             "port": 80
         },
         "server": {
@@ -335,7 +284,7 @@
             "dns2": "94.140.15.15"
         },
         "icon": "https://i.ibb.co/zR5Cv2R/DTel1q-06m.png",
-        "id": 30,
+        "id": 36,
         "mode": "SSH_PROXY",
         "name": "TIM EXPIRADO/VALIDADE",
         "proxy": {
@@ -407,7 +356,7 @@
         "url_check_user": "https://multservidor5g.dr1.info/checkuser/dtunnel.php?user=",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
         },
-        {
+{
         "auth": {
             "password": null,
             "username": null,
@@ -426,8 +375,8 @@
         "category_id": 3,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "GET /v8/ HTTP/1.1\r\nHost: t1-bdtwpa7mma-uc.a.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
-            "sni": "pubsub.googleapis.com"
+            "payload": "PATCH http://d1gwwikruxnmk3.cloudfront.net HTTP/1.1[lf]Host: [rotate= accounts.descomplica.com.br;simulado.descomplica.com.br][lf]Connection: Upgrade[lf]Upgrade: Websocket[crlf]Expect: 100-continue[crlf]/[crlf]DELETE / HTTP/1.1[crlf]Host: [rotate=d1gwwikruxnmk3.cloudfront.net;dex.descomplica.com.br;io.descomplica.com.br][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Expect: 100-continue[crlf][split][crlf]",
+            "sni": null
         },
         "config_v2ray": null,
         "created_at": "2023-07-30 17:51:58",
@@ -439,9 +388,9 @@
         "icon": "https://i.ibb.co/zR5Cv2R/DTel1q-06m.png",
         "id": 32,
         "mode": "SSH_PROXY",
-        "name": "TIM TESTE",
+        "name": "TIM PRÉ-PAGO/VIVO TESTE",
         "proxy": {
-            "host": "pubsub.googleapis.com",
+            "host": "sync-interno.m4u.com.br#sky-icare-cartao.m4u.com.br#recargadinheiro.m4u.com.br#trocadecartao.timcontrole.m4u.com.br#checkout.descomplica.com.br#launches.appsflyer.com",
             "port": 80
         },
         "server": {
@@ -488,63 +437,12 @@
             "dns2": "94.140.15.15"
         },
         "icon": "https://i.ibb.co/mCfrFfD/DT44ag1icq.png",
-        "id": 40,
+        "id": 42,
         "mode": "SSL_DIRECT",
         "name": "CLARO PLANOS",
         "proxy": {
             "host": "",
             "port": 80
-        },
-        "server": {
-            "host": "br.multservidor5g.shop",
-            "port": 443
-        },
-        "sorter": 1,
-        "status": "ACTIVE",
-        "tls_version": "TLSv1.3",
-        "udp_ports": [
-            7400
-        ],
-        "updated_at": "2023-08-28 16:12:22",
-        "url_check_user": "https://multservidor5g.dr1.info/checkuser/dtunnel.php?user=",
-        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-        },
-		{
-        "auth": {
-            "password": null,
-            "username": null,
-            "v2ray_uuid": null
-        },
-        "category": {
-            "color": "#80FF0000",
-            "created_at": "2023-07-30 17:49:04",
-            "id": 4,
-            "name": "OPERADORA CLARO",
-            "sorter": 4,
-            "status": "ACTIVE",
-            "updated_at": "2023-07-30 17:49:18",
-            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
-        },
-        "category_id": 4,
-        "config_openvpn": null,
-        "config_payload": {
-            "payload": "GET /v8/ HTTP/1.1\r\nHost: t1-23309608189.us-central1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n","proxy":{"host":"claropayprd.page.link#www.google.com#pubsub.googleapis.com#www.googletagmanager.com#www.gstatic.com#content-autofill.googleapis.com#www.google-analytics.com",
-            "sni": "claropayprd.page.link#www.google.com#pubsub.googleapis.com#www.googletagmanager.com#www.gstatic.com#content-autofill.googleapis.com#www.google-analytics.com"
-        },
-        "config_v2ray": null,
-        "created_at": "2023-07-30 17:55:21",
-        "description": "Plano Controle ou Flex",
-        "dns_server": {
-            "dns1": "94.140.14.14",
-            "dns2": "94.140.15.15"
-        },
-        "icon": "https://i.ibb.co/mCfrFfD/DT44ag1icq.png",
-        "id": 41,
-        "mode": "SSL_PROXY",
-        "name": "CLARO TESTE",
-        "proxy": {
-            "host": "claropayprd.page.link#www.google.com#pubsub.googleapis.com#www.googletagmanager.com#www.gstatic.com#content-autofill.googleapis.com#www.google-analytics.com",
-            "port": 443
         },
         "server": {
             "host": "br.multservidor5g.shop",
